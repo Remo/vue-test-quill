@@ -28,7 +28,7 @@
     "vue-quill": "^0.1.2",
     "vue-resource": "^0.9.3",
     "vue-router": "^0.7.13",
-    "vue-strap": "https://github.com/steven-klein/vue-strap.git",
+    "vue-strap": "^1.1.7",
     "vueify": "^8.7.0"
   }
 }
